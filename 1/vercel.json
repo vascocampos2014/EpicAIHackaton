@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "if [ -d 1/app ]; then cd 1/app; elif [ -d app ]; then cd app; fi; npm ci",
+  "buildCommand": "D=$PWD; if [ -d 1/app ]; then cd 1/app; elif [ -d app ]; then cd app; fi; npm run build && if [ \"$PWD\" != \"$D\" ]; then rm -rf \"$D/dist\" && cp -r dist \"$D/dist\"; fi",
+  "outputDirectory": "dist"
+}
