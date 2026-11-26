@@ -8,3 +8,4 @@ app/dist/
 data/external/
 .DS_Store
 __MACOSX/
+*.tsbuildinfo
