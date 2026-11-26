@@ -1,0 +1,309 @@
+territorio_id,codigo_ine,nome_ine
+mun-abrantes--medio-tejo,16I1401,Abrantes
+mun-agueda--regiao-de-aveiro,16D0101,Águeda
+mun-aguiar-da-beira--viseu-dao-lafoes,16G0901,Aguiar da Beira
+mun-alandroal--alentejo-central,1870701,Alandroal
+mun-albergaria-a-velha--regiao-de-aveiro,16D0102,Albergaria-a-Velha
+mun-albufeira--algarve,1500801,Albufeira
+mun-alcacer-do-sal--alentejo-litoral,1811501,Alcácer do Sal
+mun-alcanena--medio-tejo,16I1402,Alcanena
+mun-alcobaca--oeste,16B1001,Alcobaça
+mun-alcochete--area-metropolitana-de-lisboa,1701502,Alcochete
+mun-alcoutim--algarve,1500802,Alcoutim
+mun-alenquer--oeste,16B1101,Alenquer
+mun-alfandega-da-fe--terras-de-tras-os-montes,11E0401,Alfândega da Fé
+mun-alijo--douro,11D1701,Alijó
+mun-aljezur--algarve,1500803,Aljezur
+mun-aljustrel--baixo-alentejo,1840201,Aljustrel
+mun-almada--area-metropolitana-de-lisboa,1701503,Almada
+mun-almeida--beiras-e-serra-da-estrela,16J0902,Almeida
+mun-almeirim--leziria-do-tejo,1851403,Almeirim
+mun-almodovar--baixo-alentejo,1840202,Almodôvar
+mun-alpiarca--leziria-do-tejo,1851404,Alpiarça
+mun-alter-do-chao--alto-alentejo,1861201,Alter do Chão
+mun-alvaiazere--regiao-de-leiria,16F1002,Alvaiázere
+mun-alvito--baixo-alentejo,1840203,Alvito
+mun-amadora--area-metropolitana-de-lisboa,1701115,Amadora
+mun-amarante--tamega-e-sousa,11C1301,Amarante
+mun-amares--cavado,1120301,Amares
+mun-anadia--regiao-de-aveiro,16D0103,Anadia
+mun-angra-do-heroismo--ilha-terceira,2004301,Angra do Heroísmo
+mun-ansiao--regiao-de-leiria,16F1003,Ansião
+mun-arcos-de-valdevez--alto-minho,1111601,Arcos de Valdevez
+mun-arganil--regiao-de-coimbra,16E0601,Arganil
+mun-armamar--douro,11D1801,Armamar
+mun-arouca--area-metropolitana-do-porto,11A0104,Arouca
+mun-arraiolos--alentejo-central,1870702,Arraiolos
+mun-arronches--alto-alentejo,1861202,Arronches
+mun-arruda-dos-vinhos--oeste,16B1102,Arruda dos Vinhos
+mun-aveiro--regiao-de-aveiro,16D0105,Aveiro
+mun-avis--alto-alentejo,1861203,Avis
+mun-azambuja--leziria-do-tejo,1851103,Azambuja
+mun-baiao--tamega-e-sousa,11C1302,Baião
+mun-barcelos--cavado,1120302,Barcelos
+mun-barrancos--baixo-alentejo,1840204,Barrancos
+mun-barreiro--area-metropolitana-de-lisboa,1701504,Barreiro
+mun-batalha--regiao-de-leiria,16F1004,Batalha
+mun-beja--baixo-alentejo,1840205,Beja
+mun-belmonte--beiras-e-serra-da-estrela,16J0501,Belmonte
+mun-benavente--leziria-do-tejo,1851405,Benavente
+mun-bombarral--oeste,16B1005,Bombarral
+mun-borba--alentejo-central,1870703,Borba
+mun-boticas--alto-tamega,11B1702,Boticas
+mun-braga--cavado,1120303,Braga
+mun-braganca--terras-de-tras-os-montes,11E0402,Bragança
+mun-cabeceiras-de-basto--ave,1190304,Cabeceiras de Basto
+mun-cadaval--oeste,16B1104,Cadaval
+mun-caldas-da-rainha--oeste,16B1006,Caldas da Rainha
+mun-calheta-r-a-a--ilha-de-sao-jorge,2004501,Calheta
+mun-calheta-r-a-m--ilha-da-madeira,3003101,Calheta
+mun-camara-de-lobos--ilha-da-madeira,3003102,Câmara de Lobos
+mun-caminha--alto-minho,1111602,Caminha
+mun-campo-maior--alto-alentejo,1861204,Campo Maior
+mun-cantanhede--regiao-de-coimbra,16E0602,Cantanhede
+mun-carrazeda-de-ansiaes--douro,11D0403,Carrazeda de Ansiães
+mun-carregal-do-sal--viseu-dao-lafoes,16G1802,Carregal do Sal
+mun-cartaxo--leziria-do-tejo,1851406,Cartaxo
+mun-cascais--area-metropolitana-de-lisboa,1701105,Cascais
+mun-castanheira-de-pera--regiao-de-leiria,16F1007,Castanheira de Pêra
+mun-castelo-branco--beira-baixa,16H0502,Castelo Branco
+mun-castelo-de-paiva--tamega-e-sousa,11C0106,Castelo de Paiva
+mun-castelo-de-vide--alto-alentejo,1861205,Castelo de Vide
+mun-castro-daire--viseu-dao-lafoes,16G1803,Castro Daire
+mun-castro-marim--algarve,1500804,Castro Marim
+mun-castro-verde--baixo-alentejo,1840206,Castro Verde
+mun-celorico-da-beira--beiras-e-serra-da-estrela,16J0903,Celorico da Beira
+mun-celorico-de-basto--tamega-e-sousa,11C0305,Celorico de Basto
+mun-chamusca--leziria-do-tejo,1851407,Chamusca
+mun-chaves--alto-tamega,11B1703,Chaves
+mun-cinfaes--tamega-e-sousa,11C1804,Cinfães
+mun-coimbra--regiao-de-coimbra,16E0603,Coimbra
+mun-condeixa-a-nova--regiao-de-coimbra,16E0604,Condeixa-a-Nova
+mun-constancia--medio-tejo,16I1408,Constância
+mun-coruche--leziria-do-tejo,1851409,Coruche
+mun-corvo--ilha-do-corvo,2004901,Corvo
+mun-covilha--beiras-e-serra-da-estrela,16J0503,Covilhã
+mun-crato--alto-alentejo,1861206,Crato
+mun-cuba--baixo-alentejo,1840207,Cuba
+mun-elvas--alto-alentejo,1861207,Elvas
+mun-entroncamento--medio-tejo,16I1410,Entroncamento
+mun-espinho--area-metropolitana-do-porto,11A0107,Espinho
+mun-esposende--cavado,1120306,Esposende
+mun-estarreja--regiao-de-aveiro,16D0108,Estarreja
+mun-estremoz--alentejo-central,1870704,Estremoz
+mun-evora--alentejo-central,1870705,Évora
+mun-fafe--ave,1190307,Fafe
+mun-faro--algarve,1500805,Faro
+mun-felgueiras--tamega-e-sousa,11C1303,Felgueiras
+mun-ferreira-do-alentejo--baixo-alentejo,1840208,Ferreira do Alentejo
+mun-ferreira-do-zezere--medio-tejo,16I1411,Ferreira do Zêzere
+mun-figueira-da-foz--regiao-de-coimbra,16E0605,Figueira da Foz
+mun-figueira-de-castelo-rodrigo--beiras-e-serra-da-estrela,16J0904,Figueira de Castelo Rodrigo
+mun-figueiro-dos-vinhos--regiao-de-leiria,16F1008,Figueiró dos Vinhos
+mun-fornos-de-algodres--beiras-e-serra-da-estrela,16J0905,Fornos de Algodres
+mun-freixo-de-espada-a-cinta--douro,11D0404,Freixo de Espada à Cinta
+mun-fronteira--alto-alentejo,1861208,Fronteira
+mun-funchal--ilha-da-madeira,3003103,Funchal
+mun-fundao--beiras-e-serra-da-estrela,16J0504,Fundão
+mun-gaviao--alto-alentejo,1861209,Gavião
+mun-gois--regiao-de-coimbra,16E0606,Góis
+mun-golega--leziria-do-tejo,1851412,Golegã
+mun-gondomar--area-metropolitana-do-porto,11A1304,Gondomar
+mun-gouveia--beiras-e-serra-da-estrela,16J0906,Gouveia
+mun-grandola--alentejo-litoral,1811505,Grândola
+mun-guarda--beiras-e-serra-da-estrela,16J0907,Guarda
+mun-guimaraes--ave,1190308,Guimarães
+mun-horta--ilha-do-faial,2004701,Horta
+mun-idanha-a-nova--beira-baixa,16H0505,Idanha-a-Nova
+mun-ilhavo--regiao-de-aveiro,16D0110,Ílhavo
+mun-lagoa--algarve,1500806,Lagoa
+mun-lagoa-r-a-a--ilha-de-sao-miguel,2004201,Lagoa
+mun-lagos--algarve,1500807,Lagos
+mun-lajes-das-flores--ilha-das-flores,2004801,Lajes das Flores
+mun-lajes-do-pico--ilha-do-pico,2004601,Lajes do Pico
+mun-lamego--douro,11D1805,Lamego
+mun-leiria--regiao-de-leiria,16F1009,Leiria
+mun-lisboa--area-metropolitana-de-lisboa,1701106,Lisboa
+mun-loule--algarve,1500808,Loulé
+mun-loures--area-metropolitana-de-lisboa,1701107,Loures
+mun-lourinha--oeste,16B1108,Lourinhã
+mun-lousa--regiao-de-coimbra,16E0607,Lousã
+mun-lousada--tamega-e-sousa,11C1305,Lousada
+mun-macao--medio-tejo,16I1413,Mação
+mun-macedo-de-cavaleiros--terras-de-tras-os-montes,11E0405,Macedo de Cavaleiros
+mun-machico--ilha-da-madeira,3003104,Machico
+mun-madalena--ilha-do-pico,2004602,Madalena
+mun-mafra--area-metropolitana-de-lisboa,1701109,Mafra
+mun-maia--area-metropolitana-do-porto,11A1306,Maia
+mun-mangualde--viseu-dao-lafoes,16G1806,Mangualde
+mun-manteigas--beiras-e-serra-da-estrela,16J0908,Manteigas
+mun-marco-de-canaveses--tamega-e-sousa,11C1307,Marco de Canaveses
+mun-marinha-grande--regiao-de-leiria,16F1010,Marinha Grande
+mun-marvao--alto-alentejo,1861210,Marvão
+mun-matosinhos--area-metropolitana-do-porto,11A1308,Matosinhos
+mun-mealhada--regiao-de-coimbra,16E0111,Mealhada
+mun-meda--beiras-e-serra-da-estrela,16J0909,Mêda
+mun-melgaco--alto-minho,1111603,Melgaço
+mun-mertola--baixo-alentejo,1840209,Mértola
+mun-mesao-frio--douro,11D1704,Mesão Frio
+mun-mira--regiao-de-coimbra,16E0608,Mira
+mun-miranda-do-corvo--regiao-de-coimbra,16E0609,Miranda do Corvo
+mun-miranda-do-douro--terras-de-tras-os-montes,11E0406,Miranda do Douro
+mun-mirandela--terras-de-tras-os-montes,11E0407,Mirandela
+mun-mogadouro--terras-de-tras-os-montes,11E0408,Mogadouro
+mun-moimenta-da-beira--douro,11D1807,Moimenta da Beira
+mun-moita--area-metropolitana-de-lisboa,1701506,Moita
+mun-moncao--alto-minho,1111604,Monção
+mun-monchique--algarve,1500809,Monchique
+mun-mondim-de-basto--ave,1191705,Mondim de Basto
+mun-monforte--alto-alentejo,1861211,Monforte
+mun-montalegre--alto-tamega,11B1706,Montalegre
+mun-montemor-o-novo--alentejo-central,1870706,Montemor-o-Novo
+mun-montemor-o-velho--regiao-de-coimbra,16E0610,Montemor-o-Velho
+mun-montijo--area-metropolitana-de-lisboa,1701507,Montijo
+mun-mora--alentejo-central,1870707,Mora
+mun-mortagua--regiao-de-coimbra,16E1808,Mortágua
+mun-moura--baixo-alentejo,1840210,Moura
+mun-mourao--alentejo-central,1870708,Mourão
+mun-murca--douro,11D1707,Murça
+mun-murtosa--regiao-de-aveiro,16D0112,Murtosa
+mun-nazare--oeste,16B1011,Nazaré
+mun-nelas--viseu-dao-lafoes,16G1809,Nelas
+mun-nisa--alto-alentejo,1861212,Nisa
+mun-nordeste--ilha-de-sao-miguel,2004202,Nordeste
+mun-obidos--oeste,16B1012,Óbidos
+mun-odemira--alentejo-litoral,1810211,Odemira
+mun-odivelas--area-metropolitana-de-lisboa,1701116,Odivelas
+mun-oeiras--area-metropolitana-de-lisboa,1701110,Oeiras
+mun-oleiros--beira-baixa,16H0506,Oleiros
+mun-olhao--algarve,1500810,Olhão
+mun-oliveira-de-azemeis--area-metropolitana-do-porto,11A0113,Oliveira de Azeméis
+mun-oliveira-de-frades--viseu-dao-lafoes,16G1810,Oliveira de Frades
+mun-oliveira-do-bairro--regiao-de-aveiro,16D0114,Oliveira do Bairro
+mun-oliveira-do-hospital--regiao-de-coimbra,16E0611,Oliveira do Hospital
+mun-ourem--medio-tejo,16I1421,Ourém
+mun-ourique--baixo-alentejo,1840212,Ourique
+mun-ovar--regiao-de-aveiro,16D0115,Ovar
+mun-pacos-de-ferreira--tamega-e-sousa,11C1309,Paços de Ferreira
+mun-palmela--area-metropolitana-de-lisboa,1701508,Palmela
+mun-pampilhosa-da-serra--regiao-de-coimbra,16E0612,Pampilhosa da Serra
+mun-paredes--area-metropolitana-do-porto,11A1310,Paredes
+mun-paredes-de-coura--alto-minho,1111605,Paredes de Coura
+mun-pedrogao-grande--regiao-de-leiria,16F1013,Pedrógão Grande
+mun-penacova--regiao-de-coimbra,16E0613,Penacova
+mun-penafiel--tamega-e-sousa,11C1311,Penafiel
+mun-penalva-do-castelo--viseu-dao-lafoes,16G1811,Penalva do Castelo
+mun-penamacor--beira-baixa,16H0507,Penamacor
+mun-penedono--douro,11D1812,Penedono
+mun-penela--regiao-de-coimbra,16E0614,Penela
+mun-peniche--oeste,16B1014,Peniche
+mun-peso-da-regua--douro,11D1708,Peso da Régua
+mun-pinhel--beiras-e-serra-da-estrela,16J0910,Pinhel
+mun-pombal--regiao-de-leiria,16F1015,Pombal
+mun-ponta-delgada--ilha-de-sao-miguel,2004203,Ponta Delgada
+mun-ponta-do-sol--ilha-da-madeira,3003105,Ponta do Sol
+mun-ponte-da-barca--alto-minho,1111606,Ponte da Barca
+mun-ponte-de-lima--alto-minho,1111607,Ponte de Lima
+mun-ponte-de-sor--alto-alentejo,1861213,Ponte de Sor
+mun-portalegre--alto-alentejo,1861214,Portalegre
+mun-portel--alentejo-central,1870709,Portel
+mun-portimao--algarve,1500811,Portimão
+mun-porto--area-metropolitana-do-porto,11A1312,Porto
+mun-porto-de-mos--regiao-de-leiria,16F1016,Porto de Mós
+mun-porto-moniz--ilha-da-madeira,3003106,Porto Moniz
+mun-porto-santo--ilha-de-porto-santo,3003201,Porto Santo
+mun-povoa-de-lanhoso--ave,1190309,Póvoa de Lanhoso
+mun-povoa-de-varzim--area-metropolitana-do-porto,11A1313,Póvoa de Varzim
+mun-povoacao--ilha-de-sao-miguel,2004204,Povoação
+mun-proenca-a-nova--beira-baixa,16H0508,Proença-a-Nova
+mun-redondo--alentejo-central,1870710,Redondo
+mun-reguengos-de-monsaraz--alentejo-central,1870711,Reguengos de Monsaraz
+mun-resende--tamega-e-sousa,11C1813,Resende
+mun-ribeira-brava--ilha-da-madeira,3003107,Ribeira Brava
+mun-ribeira-de-pena--alto-tamega,11B1709,Ribeira de Pena
+mun-ribeira-grande--ilha-de-sao-miguel,2004205,Ribeira Grande
+mun-rio-maior--leziria-do-tejo,1851414,Rio Maior
+mun-sabrosa--douro,11D1710,Sabrosa
+mun-sabugal--beiras-e-serra-da-estrela,16J0911,Sabugal
+mun-salvaterra-de-magos--leziria-do-tejo,1851415,Salvaterra de Magos
+mun-santa-comba-dao--viseu-dao-lafoes,16G1814,Santa Comba Dão
+mun-santa-cruz--ilha-da-madeira,3003108,Santa Cruz
+mun-santa-cruz-da-graciosa--ilha-graciosa,2004401,Santa Cruz da Graciosa
+mun-santa-cruz-das-flores--ilha-das-flores,2004802,Santa Cruz das Flores
+mun-santa-maria-da-feira--area-metropolitana-do-porto,11A0109,Santa Maria da Feira
+mun-santa-marta-de-penaguiao--douro,11D1711,Santa Marta de Penaguião
+mun-santana--ilha-da-madeira,3003109,Santana
+mun-santarem--leziria-do-tejo,1851416,Santarém
+mun-santiago-do-cacem--alentejo-litoral,1811509,Santiago do Cacém
+mun-santo-tirso--area-metropolitana-do-porto,11A1314,Santo Tirso
+mun-sao-bras-de-alportel--algarve,1500812,São Brás de Alportel
+mun-sao-joao-da-madeira--area-metropolitana-do-porto,11A0116,São João da Madeira
+mun-sao-joao-da-pesqueira--douro,11D1815,São João da Pesqueira
+mun-sao-pedro-do-sul--viseu-dao-lafoes,16G1816,São Pedro do Sul
+mun-sao-roque-do-pico--ilha-do-pico,2004603,São Roque do Pico
+mun-sao-vicente--ilha-da-madeira,3003110,São Vicente
+mun-sardoal--medio-tejo,16I1417,Sardoal
+mun-satao--viseu-dao-lafoes,16G1817,Sátão
+mun-seia--beiras-e-serra-da-estrela,16J0912,Seia
+mun-seixal--area-metropolitana-de-lisboa,1701510,Seixal
+mun-sernancelhe--douro,11D1818,Sernancelhe
+mun-serpa--baixo-alentejo,1840213,Serpa
+mun-serta--medio-tejo,16I0509,Sertã
+mun-sesimbra--area-metropolitana-de-lisboa,1701511,Sesimbra
+mun-setubal--area-metropolitana-de-lisboa,1701512,Setúbal
+mun-sever-do-vouga--regiao-de-aveiro,16D0117,Sever do Vouga
+mun-silves--algarve,1500813,Silves
+mun-sines--alentejo-litoral,1811513,Sines
+mun-sintra--area-metropolitana-de-lisboa,1701111,Sintra
+mun-sobral-de-monte-agraco--oeste,16B1112,Sobral de Monte Agraço
+mun-soure--regiao-de-coimbra,16E0615,Soure
+mun-sousel--alto-alentejo,1861215,Sousel
+mun-tabua--regiao-de-coimbra,16E0616,Tábua
+mun-tabuaco--douro,11D1819,Tabuaço
+mun-tarouca--douro,11D1820,Tarouca
+mun-tavira--algarve,1500814,Tavira
+mun-terras-de-bouro--cavado,1120310,Terras de Bouro
+mun-tomar--medio-tejo,16I1418,Tomar
+mun-tondela--viseu-dao-lafoes,16G1821,Tondela
+mun-torre-de-moncorvo--douro,11D0409,Torre de Moncorvo
+mun-torres-novas--medio-tejo,16I1419,Torres Novas
+mun-torres-vedras--oeste,16B1113,Torres Vedras
+mun-trancoso--beiras-e-serra-da-estrela,16J0913,Trancoso
+mun-trofa--area-metropolitana-do-porto,11A1318,Trofa
+mun-vagos--regiao-de-aveiro,16D0118,Vagos
+mun-vale-de-cambra--area-metropolitana-do-porto,11A0119,Vale de Cambra
+mun-valenca--alto-minho,1111608,Valença
+mun-valongo--area-metropolitana-do-porto,11A1315,Valongo
+mun-valpacos--alto-tamega,11B1712,Valpaços
+mun-velas--ilha-de-sao-jorge,2004502,Velas
+mun-vendas-novas--alentejo-central,1870712,Vendas Novas
+mun-viana-do-alentejo--alentejo-central,1870713,Viana do Alentejo
+mun-viana-do-castelo--alto-minho,1111609,Viana do Castelo
+mun-vidigueira--baixo-alentejo,1840214,Vidigueira
+mun-vieira-do-minho--ave,1190311,Vieira do Minho
+mun-vila-da-praia-da-vitoria--ilha-terceira,2004302,Vila da Praia da Vitória
+mun-vila-de-rei--medio-tejo,16I0510,Vila de Rei
+mun-vila-do-bispo--algarve,1500815,Vila do Bispo
+mun-vila-do-conde--area-metropolitana-do-porto,11A1316,Vila do Conde
+mun-vila-do-porto--ilha-de-santa-maria,2004101,Vila do Porto
+mun-vila-flor--terras-de-tras-os-montes,11E0410,Vila Flor
+mun-vila-franca-de-xira--area-metropolitana-de-lisboa,1701114,Vila Franca de Xira
+mun-vila-franca-do-campo--ilha-de-sao-miguel,2004206,Vila Franca do Campo
+mun-vila-nova-da-barquinha--medio-tejo,16I1420,Vila Nova da Barquinha
+mun-vila-nova-de-cerveira--alto-minho,1111610,Vila Nova de Cerveira
+mun-vila-nova-de-famalicao--ave,1190312,Vila Nova de Famalicão
+mun-vila-nova-de-foz-coa--douro,11D0914,Vila Nova de Foz Côa
+mun-vila-nova-de-gaia--area-metropolitana-do-porto,11A1317,Vila Nova de Gaia
+mun-vila-nova-de-paiva--viseu-dao-lafoes,16G1822,Vila Nova de Paiva
+mun-vila-nova-de-poiares--regiao-de-coimbra,16E0617,Vila Nova de Poiares
+mun-vila-pouca-de-aguiar--alto-tamega,11B1713,Vila Pouca de Aguiar
+mun-vila-real--douro,11D1714,Vila Real
+mun-vila-real-de-santo-antonio--algarve,1500816,Vila Real de Santo António
+mun-vila-velha-de-rodao--beira-baixa,16H0511,Vila Velha de Ródão
+mun-vila-verde--cavado,1120313,Vila Verde
+mun-vila-vicosa--alentejo-central,1870714,Vila Viçosa
+mun-vimioso--terras-de-tras-os-montes,11E0411,Vimioso
+mun-vinhais--terras-de-tras-os-montes,11E0412,Vinhais
+mun-viseu--viseu-dao-lafoes,16G1823,Viseu
+mun-vizela--ave,1190314,Vizela
+mun-vouzela--viseu-dao-lafoes,16G1824,Vouzela

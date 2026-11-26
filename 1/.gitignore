@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+# caches grandes, regeneráveis com pipeline/03_geo.py
+data/external/geo/
+data/municipios_raw.geojson
+app/node_modules/
+app/dist/
+data/external/
+.DS_Store
+__MACOSX/

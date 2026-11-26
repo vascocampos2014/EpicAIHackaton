@@ -1,0 +1,354 @@
+id,nome,nivel,nuts1,nuts2,nuts3
+pais-portugal,Portugal,País,,,
+nuts-i-continente,Continente,NUTS I,Continente,,
+nuts-ii-norte,Norte,NUTS II,Continente,Norte,
+nuts-iii-alto-minho,Alto Minho,NUTS III,Continente,Norte,Alto Minho
+mun-arcos-de-valdevez--alto-minho,Arcos de Valdevez,Município,Continente,Norte,Alto Minho
+mun-caminha--alto-minho,Caminha,Município,Continente,Norte,Alto Minho
+mun-melgaco--alto-minho,Melgaço,Município,Continente,Norte,Alto Minho
+mun-moncao--alto-minho,Monção,Município,Continente,Norte,Alto Minho
+mun-paredes-de-coura--alto-minho,Paredes de Coura,Município,Continente,Norte,Alto Minho
+mun-ponte-da-barca--alto-minho,Ponte da Barca,Município,Continente,Norte,Alto Minho
+mun-ponte-de-lima--alto-minho,Ponte de Lima,Município,Continente,Norte,Alto Minho
+mun-valenca--alto-minho,Valença,Município,Continente,Norte,Alto Minho
+mun-viana-do-castelo--alto-minho,Viana do Castelo,Município,Continente,Norte,Alto Minho
+mun-vila-nova-de-cerveira--alto-minho,Vila Nova de Cerveira,Município,Continente,Norte,Alto Minho
+nuts-iii-cavado,Cávado,NUTS III,Continente,Norte,Cávado
+mun-amares--cavado,Amares,Município,Continente,Norte,Cávado
+mun-barcelos--cavado,Barcelos,Município,Continente,Norte,Cávado
+mun-braga--cavado,Braga,Município,Continente,Norte,Cávado
+mun-esposende--cavado,Esposende,Município,Continente,Norte,Cávado
+mun-terras-de-bouro--cavado,Terras de Bouro,Município,Continente,Norte,Cávado
+mun-vila-verde--cavado,Vila Verde,Município,Continente,Norte,Cávado
+nuts-iii-ave,Ave,NUTS III,Continente,Norte,Ave
+mun-cabeceiras-de-basto--ave,Cabeceiras de Basto,Município,Continente,Norte,Ave
+mun-fafe--ave,Fafe,Município,Continente,Norte,Ave
+mun-guimaraes--ave,Guimarães,Município,Continente,Norte,Ave
+mun-mondim-de-basto--ave,Mondim de Basto,Município,Continente,Norte,Ave
+mun-povoa-de-lanhoso--ave,Póvoa de Lanhoso,Município,Continente,Norte,Ave
+mun-vieira-do-minho--ave,Vieira do Minho,Município,Continente,Norte,Ave
+mun-vila-nova-de-famalicao--ave,Vila Nova de Famalicão,Município,Continente,Norte,Ave
+mun-vizela--ave,Vizela,Município,Continente,Norte,Ave
+nuts-iii-area-metropolitana-do-porto,Área Metropolitana do Porto,NUTS III,Continente,Norte,Área Metropolitana do Porto
+mun-arouca--area-metropolitana-do-porto,Arouca,Município,Continente,Norte,Área Metropolitana do Porto
+mun-espinho--area-metropolitana-do-porto,Espinho,Município,Continente,Norte,Área Metropolitana do Porto
+mun-gondomar--area-metropolitana-do-porto,Gondomar,Município,Continente,Norte,Área Metropolitana do Porto
+mun-maia--area-metropolitana-do-porto,Maia,Município,Continente,Norte,Área Metropolitana do Porto
+mun-matosinhos--area-metropolitana-do-porto,Matosinhos,Município,Continente,Norte,Área Metropolitana do Porto
+mun-oliveira-de-azemeis--area-metropolitana-do-porto,Oliveira de Azeméis,Município,Continente,Norte,Área Metropolitana do Porto
+mun-paredes--area-metropolitana-do-porto,Paredes,Município,Continente,Norte,Área Metropolitana do Porto
+mun-porto--area-metropolitana-do-porto,Porto,Município,Continente,Norte,Área Metropolitana do Porto
+mun-povoa-de-varzim--area-metropolitana-do-porto,Póvoa de Varzim,Município,Continente,Norte,Área Metropolitana do Porto
+mun-santa-maria-da-feira--area-metropolitana-do-porto,Santa Maria da Feira,Município,Continente,Norte,Área Metropolitana do Porto
+mun-santo-tirso--area-metropolitana-do-porto,Santo Tirso,Município,Continente,Norte,Área Metropolitana do Porto
+mun-sao-joao-da-madeira--area-metropolitana-do-porto,São João da Madeira,Município,Continente,Norte,Área Metropolitana do Porto
+mun-trofa--area-metropolitana-do-porto,Trofa,Município,Continente,Norte,Área Metropolitana do Porto
+mun-vale-de-cambra--area-metropolitana-do-porto,Vale de Cambra,Município,Continente,Norte,Área Metropolitana do Porto
+mun-valongo--area-metropolitana-do-porto,Valongo,Município,Continente,Norte,Área Metropolitana do Porto
+mun-vila-do-conde--area-metropolitana-do-porto,Vila do Conde,Município,Continente,Norte,Área Metropolitana do Porto
+mun-vila-nova-de-gaia--area-metropolitana-do-porto,Vila Nova de Gaia,Município,Continente,Norte,Área Metropolitana do Porto
+nuts-iii-alto-tamega,Alto Tâmega,NUTS III,Continente,Norte,Alto Tâmega
+mun-boticas--alto-tamega,Boticas,Município,Continente,Norte,Alto Tâmega
+mun-chaves--alto-tamega,Chaves,Município,Continente,Norte,Alto Tâmega
+mun-montalegre--alto-tamega,Montalegre,Município,Continente,Norte,Alto Tâmega
+mun-ribeira-de-pena--alto-tamega,Ribeira de Pena,Município,Continente,Norte,Alto Tâmega
+mun-valpacos--alto-tamega,Valpaços,Município,Continente,Norte,Alto Tâmega
+mun-vila-pouca-de-aguiar--alto-tamega,Vila Pouca de Aguiar,Município,Continente,Norte,Alto Tâmega
+nuts-iii-tamega-e-sousa,Tâmega e Sousa,NUTS III,Continente,Norte,Tâmega e Sousa
+mun-amarante--tamega-e-sousa,Amarante,Município,Continente,Norte,Tâmega e Sousa
+mun-baiao--tamega-e-sousa,Baião,Município,Continente,Norte,Tâmega e Sousa
+mun-castelo-de-paiva--tamega-e-sousa,Castelo de Paiva,Município,Continente,Norte,Tâmega e Sousa
+mun-celorico-de-basto--tamega-e-sousa,Celorico de Basto,Município,Continente,Norte,Tâmega e Sousa
+mun-cinfaes--tamega-e-sousa,Cinfães,Município,Continente,Norte,Tâmega e Sousa
+mun-felgueiras--tamega-e-sousa,Felgueiras,Município,Continente,Norte,Tâmega e Sousa
+mun-lousada--tamega-e-sousa,Lousada,Município,Continente,Norte,Tâmega e Sousa
+mun-marco-de-canaveses--tamega-e-sousa,Marco de Canaveses,Município,Continente,Norte,Tâmega e Sousa
+mun-pacos-de-ferreira--tamega-e-sousa,Paços de Ferreira,Município,Continente,Norte,Tâmega e Sousa
+mun-penafiel--tamega-e-sousa,Penafiel,Município,Continente,Norte,Tâmega e Sousa
+mun-resende--tamega-e-sousa,Resende,Município,Continente,Norte,Tâmega e Sousa
+nuts-iii-douro,Douro,NUTS III,Continente,Norte,Douro
+mun-alijo--douro,Alijó,Município,Continente,Norte,Douro
+mun-armamar--douro,Armamar,Município,Continente,Norte,Douro
+mun-carrazeda-de-ansiaes--douro,Carrazeda de Ansiães,Município,Continente,Norte,Douro
+mun-freixo-de-espada-a-cinta--douro,Freixo de Espada à Cinta,Município,Continente,Norte,Douro
+mun-lamego--douro,Lamego,Município,Continente,Norte,Douro
+mun-mesao-frio--douro,Mesão Frio,Município,Continente,Norte,Douro
+mun-moimenta-da-beira--douro,Moimenta da Beira,Município,Continente,Norte,Douro
+mun-murca--douro,Murça,Município,Continente,Norte,Douro
+mun-penedono--douro,Penedono,Município,Continente,Norte,Douro
+mun-peso-da-regua--douro,Peso da Régua,Município,Continente,Norte,Douro
+mun-sabrosa--douro,Sabrosa,Município,Continente,Norte,Douro
+mun-santa-marta-de-penaguiao--douro,Santa Marta de Penaguião,Município,Continente,Norte,Douro
+mun-sao-joao-da-pesqueira--douro,São João da Pesqueira,Município,Continente,Norte,Douro
+mun-sernancelhe--douro,Sernancelhe,Município,Continente,Norte,Douro
+mun-tabuaco--douro,Tabuaço,Município,Continente,Norte,Douro
+mun-tarouca--douro,Tarouca,Município,Continente,Norte,Douro
+mun-torre-de-moncorvo--douro,Torre de Moncorvo,Município,Continente,Norte,Douro
+mun-vila-nova-de-foz-coa--douro,Vila Nova de Foz Côa,Município,Continente,Norte,Douro
+mun-vila-real--douro,Vila Real,Município,Continente,Norte,Douro
+nuts-iii-terras-de-tras-os-montes,Terras de Trás-os-Montes,NUTS III,Continente,Norte,Terras de Trás-os-Montes
+mun-alfandega-da-fe--terras-de-tras-os-montes,Alfândega da Fé,Município,Continente,Norte,Terras de Trás-os-Montes
+mun-braganca--terras-de-tras-os-montes,Bragança,Município,Continente,Norte,Terras de Trás-os-Montes
+mun-macedo-de-cavaleiros--terras-de-tras-os-montes,Macedo de Cavaleiros,Município,Continente,Norte,Terras de Trás-os-Montes
+mun-miranda-do-douro--terras-de-tras-os-montes,Miranda do Douro,Município,Continente,Norte,Terras de Trás-os-Montes
+mun-mirandela--terras-de-tras-os-montes,Mirandela,Município,Continente,Norte,Terras de Trás-os-Montes
+mun-mogadouro--terras-de-tras-os-montes,Mogadouro,Município,Continente,Norte,Terras de Trás-os-Montes
+mun-vila-flor--terras-de-tras-os-montes,Vila Flor,Município,Continente,Norte,Terras de Trás-os-Montes
+mun-vimioso--terras-de-tras-os-montes,Vimioso,Município,Continente,Norte,Terras de Trás-os-Montes
+mun-vinhais--terras-de-tras-os-montes,Vinhais,Município,Continente,Norte,Terras de Trás-os-Montes
+nuts-ii-centro,Centro,NUTS II,Continente,Centro,
+nuts-iii-oeste,Oeste,NUTS III,Continente,Centro,Oeste
+mun-alcobaca--oeste,Alcobaça,Município,Continente,Centro,Oeste
+mun-alenquer--oeste,Alenquer,Município,Continente,Centro,Oeste
+mun-arruda-dos-vinhos--oeste,Arruda dos Vinhos,Município,Continente,Centro,Oeste
+mun-bombarral--oeste,Bombarral,Município,Continente,Centro,Oeste
+mun-cadaval--oeste,Cadaval,Município,Continente,Centro,Oeste
+mun-caldas-da-rainha--oeste,Caldas da Rainha,Município,Continente,Centro,Oeste
+mun-lourinha--oeste,Lourinhã,Município,Continente,Centro,Oeste
+mun-nazare--oeste,Nazaré,Município,Continente,Centro,Oeste
+mun-obidos--oeste,Óbidos,Município,Continente,Centro,Oeste
+mun-peniche--oeste,Peniche,Município,Continente,Centro,Oeste
+mun-sobral-de-monte-agraco--oeste,Sobral de Monte Agraço,Município,Continente,Centro,Oeste
+mun-torres-vedras--oeste,Torres Vedras,Município,Continente,Centro,Oeste
+nuts-iii-regiao-de-aveiro,Região de Aveiro,NUTS III,Continente,Centro,Região de Aveiro
+mun-agueda--regiao-de-aveiro,Águeda,Município,Continente,Centro,Região de Aveiro
+mun-albergaria-a-velha--regiao-de-aveiro,Albergaria-a-Velha,Município,Continente,Centro,Região de Aveiro
+mun-anadia--regiao-de-aveiro,Anadia,Município,Continente,Centro,Região de Aveiro
+mun-aveiro--regiao-de-aveiro,Aveiro,Município,Continente,Centro,Região de Aveiro
+mun-estarreja--regiao-de-aveiro,Estarreja,Município,Continente,Centro,Região de Aveiro
+mun-ilhavo--regiao-de-aveiro,Ílhavo,Município,Continente,Centro,Região de Aveiro
+mun-murtosa--regiao-de-aveiro,Murtosa,Município,Continente,Centro,Região de Aveiro
+mun-oliveira-do-bairro--regiao-de-aveiro,Oliveira do Bairro,Município,Continente,Centro,Região de Aveiro
+mun-ovar--regiao-de-aveiro,Ovar,Município,Continente,Centro,Região de Aveiro
+mun-sever-do-vouga--regiao-de-aveiro,Sever do Vouga,Município,Continente,Centro,Região de Aveiro
+mun-vagos--regiao-de-aveiro,Vagos,Município,Continente,Centro,Região de Aveiro
+nuts-iii-regiao-de-coimbra,Região de Coimbra,NUTS III,Continente,Centro,Região de Coimbra
+mun-arganil--regiao-de-coimbra,Arganil,Município,Continente,Centro,Região de Coimbra
+mun-cantanhede--regiao-de-coimbra,Cantanhede,Município,Continente,Centro,Região de Coimbra
+mun-coimbra--regiao-de-coimbra,Coimbra,Município,Continente,Centro,Região de Coimbra
+mun-condeixa-a-nova--regiao-de-coimbra,Condeixa-a-Nova,Município,Continente,Centro,Região de Coimbra
+mun-figueira-da-foz--regiao-de-coimbra,Figueira da Foz,Município,Continente,Centro,Região de Coimbra
+mun-gois--regiao-de-coimbra,Góis,Município,Continente,Centro,Região de Coimbra
+mun-lousa--regiao-de-coimbra,Lousã,Município,Continente,Centro,Região de Coimbra
+mun-mealhada--regiao-de-coimbra,Mealhada,Município,Continente,Centro,Região de Coimbra
+mun-mira--regiao-de-coimbra,Mira,Município,Continente,Centro,Região de Coimbra
+mun-miranda-do-corvo--regiao-de-coimbra,Miranda do Corvo,Município,Continente,Centro,Região de Coimbra
+mun-montemor-o-velho--regiao-de-coimbra,Montemor-o-Velho,Município,Continente,Centro,Região de Coimbra
+mun-mortagua--regiao-de-coimbra,Mortágua,Município,Continente,Centro,Região de Coimbra
+mun-oliveira-do-hospital--regiao-de-coimbra,Oliveira do Hospital,Município,Continente,Centro,Região de Coimbra
+mun-pampilhosa-da-serra--regiao-de-coimbra,Pampilhosa da Serra,Município,Continente,Centro,Região de Coimbra
+mun-penacova--regiao-de-coimbra,Penacova,Município,Continente,Centro,Região de Coimbra
+mun-penela--regiao-de-coimbra,Penela,Município,Continente,Centro,Região de Coimbra
+mun-soure--regiao-de-coimbra,Soure,Município,Continente,Centro,Região de Coimbra
+mun-tabua--regiao-de-coimbra,Tábua,Município,Continente,Centro,Região de Coimbra
+mun-vila-nova-de-poiares--regiao-de-coimbra,Vila Nova de Poiares,Município,Continente,Centro,Região de Coimbra
+nuts-iii-regiao-de-leiria,Região de Leiria,NUTS III,Continente,Centro,Região de Leiria
+mun-alvaiazere--regiao-de-leiria,Alvaiázere,Município,Continente,Centro,Região de Leiria
+mun-ansiao--regiao-de-leiria,Ansião,Município,Continente,Centro,Região de Leiria
+mun-batalha--regiao-de-leiria,Batalha,Município,Continente,Centro,Região de Leiria
+mun-castanheira-de-pera--regiao-de-leiria,Castanheira de Pêra,Município,Continente,Centro,Região de Leiria
+mun-figueiro-dos-vinhos--regiao-de-leiria,Figueiró dos Vinhos,Município,Continente,Centro,Região de Leiria
+mun-leiria--regiao-de-leiria,Leiria,Município,Continente,Centro,Região de Leiria
+mun-marinha-grande--regiao-de-leiria,Marinha Grande,Município,Continente,Centro,Região de Leiria
+mun-pedrogao-grande--regiao-de-leiria,Pedrógão Grande,Município,Continente,Centro,Região de Leiria
+mun-pombal--regiao-de-leiria,Pombal,Município,Continente,Centro,Região de Leiria
+mun-porto-de-mos--regiao-de-leiria,Porto de Mós,Município,Continente,Centro,Região de Leiria
+nuts-iii-viseu-dao-lafoes,Viseu Dão Lafões,NUTS III,Continente,Centro,Viseu Dão Lafões
+mun-aguiar-da-beira--viseu-dao-lafoes,Aguiar da Beira,Município,Continente,Centro,Viseu Dão Lafões
+mun-carregal-do-sal--viseu-dao-lafoes,Carregal do Sal,Município,Continente,Centro,Viseu Dão Lafões
+mun-castro-daire--viseu-dao-lafoes,Castro Daire,Município,Continente,Centro,Viseu Dão Lafões
+mun-mangualde--viseu-dao-lafoes,Mangualde,Município,Continente,Centro,Viseu Dão Lafões
+mun-nelas--viseu-dao-lafoes,Nelas,Município,Continente,Centro,Viseu Dão Lafões
+mun-oliveira-de-frades--viseu-dao-lafoes,Oliveira de Frades,Município,Continente,Centro,Viseu Dão Lafões
+mun-penalva-do-castelo--viseu-dao-lafoes,Penalva do Castelo,Município,Continente,Centro,Viseu Dão Lafões
+mun-santa-comba-dao--viseu-dao-lafoes,Santa Comba Dão,Município,Continente,Centro,Viseu Dão Lafões
+mun-sao-pedro-do-sul--viseu-dao-lafoes,São Pedro do Sul,Município,Continente,Centro,Viseu Dão Lafões
+mun-satao--viseu-dao-lafoes,Sátão,Município,Continente,Centro,Viseu Dão Lafões
+mun-tondela--viseu-dao-lafoes,Tondela,Município,Continente,Centro,Viseu Dão Lafões
+mun-vila-nova-de-paiva--viseu-dao-lafoes,Vila Nova de Paiva,Município,Continente,Centro,Viseu Dão Lafões
+mun-viseu--viseu-dao-lafoes,Viseu,Município,Continente,Centro,Viseu Dão Lafões
+mun-vouzela--viseu-dao-lafoes,Vouzela,Município,Continente,Centro,Viseu Dão Lafões
+nuts-iii-beira-baixa,Beira Baixa,NUTS III,Continente,Centro,Beira Baixa
+mun-castelo-branco--beira-baixa,Castelo Branco,Município,Continente,Centro,Beira Baixa
+mun-idanha-a-nova--beira-baixa,Idanha-a-Nova,Município,Continente,Centro,Beira Baixa
+mun-oleiros--beira-baixa,Oleiros,Município,Continente,Centro,Beira Baixa
+mun-penamacor--beira-baixa,Penamacor,Município,Continente,Centro,Beira Baixa
+mun-proenca-a-nova--beira-baixa,Proença-a-Nova,Município,Continente,Centro,Beira Baixa
+mun-vila-velha-de-rodao--beira-baixa,Vila Velha de Ródão,Município,Continente,Centro,Beira Baixa
+nuts-iii-medio-tejo,Médio Tejo,NUTS III,Continente,Centro,Médio Tejo
+mun-abrantes--medio-tejo,Abrantes,Município,Continente,Centro,Médio Tejo
+mun-alcanena--medio-tejo,Alcanena,Município,Continente,Centro,Médio Tejo
+mun-constancia--medio-tejo,Constância,Município,Continente,Centro,Médio Tejo
+mun-entroncamento--medio-tejo,Entroncamento,Município,Continente,Centro,Médio Tejo
+mun-ferreira-do-zezere--medio-tejo,Ferreira do Zêzere,Município,Continente,Centro,Médio Tejo
+mun-macao--medio-tejo,Mação,Município,Continente,Centro,Médio Tejo
+mun-ourem--medio-tejo,Ourém,Município,Continente,Centro,Médio Tejo
+mun-sardoal--medio-tejo,Sardoal,Município,Continente,Centro,Médio Tejo
+mun-serta--medio-tejo,Sertã,Município,Continente,Centro,Médio Tejo
+mun-tomar--medio-tejo,Tomar,Município,Continente,Centro,Médio Tejo
+mun-torres-novas--medio-tejo,Torres Novas,Município,Continente,Centro,Médio Tejo
+mun-vila-de-rei--medio-tejo,Vila de Rei,Município,Continente,Centro,Médio Tejo
+mun-vila-nova-da-barquinha--medio-tejo,Vila Nova da Barquinha,Município,Continente,Centro,Médio Tejo
+nuts-iii-beiras-e-serra-da-estrela,Beiras e Serra da Estrela,NUTS III,Continente,Centro,Beiras e Serra da Estrela
+mun-almeida--beiras-e-serra-da-estrela,Almeida,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-belmonte--beiras-e-serra-da-estrela,Belmonte,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-celorico-da-beira--beiras-e-serra-da-estrela,Celorico da Beira,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-covilha--beiras-e-serra-da-estrela,Covilhã,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-figueira-de-castelo-rodrigo--beiras-e-serra-da-estrela,Figueira de Castelo Rodrigo,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-fornos-de-algodres--beiras-e-serra-da-estrela,Fornos de Algodres,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-fundao--beiras-e-serra-da-estrela,Fundão,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-gouveia--beiras-e-serra-da-estrela,Gouveia,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-guarda--beiras-e-serra-da-estrela,Guarda,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-manteigas--beiras-e-serra-da-estrela,Manteigas,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-meda--beiras-e-serra-da-estrela,Mêda,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-pinhel--beiras-e-serra-da-estrela,Pinhel,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-sabugal--beiras-e-serra-da-estrela,Sabugal,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-seia--beiras-e-serra-da-estrela,Seia,Município,Continente,Centro,Beiras e Serra da Estrela
+mun-trancoso--beiras-e-serra-da-estrela,Trancoso,Município,Continente,Centro,Beiras e Serra da Estrela
+nuts-ii-area-metropolitana-de-lisboa,Área Metropolitana de Lisboa,NUTS II,Continente,Área Metropolitana de Lisboa,
+nuts-iii-area-metropolitana-de-lisboa,Área Metropolitana de Lisboa,NUTS III,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-alcochete--area-metropolitana-de-lisboa,Alcochete,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-almada--area-metropolitana-de-lisboa,Almada,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-amadora--area-metropolitana-de-lisboa,Amadora,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-barreiro--area-metropolitana-de-lisboa,Barreiro,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-cascais--area-metropolitana-de-lisboa,Cascais,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-lisboa--area-metropolitana-de-lisboa,Lisboa,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-loures--area-metropolitana-de-lisboa,Loures,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-mafra--area-metropolitana-de-lisboa,Mafra,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-moita--area-metropolitana-de-lisboa,Moita,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-montijo--area-metropolitana-de-lisboa,Montijo,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-odivelas--area-metropolitana-de-lisboa,Odivelas,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-oeiras--area-metropolitana-de-lisboa,Oeiras,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-palmela--area-metropolitana-de-lisboa,Palmela,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-seixal--area-metropolitana-de-lisboa,Seixal,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-sesimbra--area-metropolitana-de-lisboa,Sesimbra,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-setubal--area-metropolitana-de-lisboa,Setúbal,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-sintra--area-metropolitana-de-lisboa,Sintra,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+mun-vila-franca-de-xira--area-metropolitana-de-lisboa,Vila Franca de Xira,Município,Continente,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa
+nuts-ii-alentejo,Alentejo,NUTS II,Continente,Alentejo,
+nuts-iii-alentejo-litoral,Alentejo Litoral,NUTS III,Continente,Alentejo,Alentejo Litoral
+mun-alcacer-do-sal--alentejo-litoral,Alcácer do Sal,Município,Continente,Alentejo,Alentejo Litoral
+mun-grandola--alentejo-litoral,Grândola,Município,Continente,Alentejo,Alentejo Litoral
+mun-odemira--alentejo-litoral,Odemira,Município,Continente,Alentejo,Alentejo Litoral
+mun-santiago-do-cacem--alentejo-litoral,Santiago do Cacém,Município,Continente,Alentejo,Alentejo Litoral
+mun-sines--alentejo-litoral,Sines,Município,Continente,Alentejo,Alentejo Litoral
+nuts-iii-baixo-alentejo,Baixo Alentejo,NUTS III,Continente,Alentejo,Baixo Alentejo
+mun-aljustrel--baixo-alentejo,Aljustrel,Município,Continente,Alentejo,Baixo Alentejo
+mun-almodovar--baixo-alentejo,Almodôvar,Município,Continente,Alentejo,Baixo Alentejo
+mun-alvito--baixo-alentejo,Alvito,Município,Continente,Alentejo,Baixo Alentejo
+mun-barrancos--baixo-alentejo,Barrancos,Município,Continente,Alentejo,Baixo Alentejo
+mun-beja--baixo-alentejo,Beja,Município,Continente,Alentejo,Baixo Alentejo
+mun-castro-verde--baixo-alentejo,Castro Verde,Município,Continente,Alentejo,Baixo Alentejo
+mun-cuba--baixo-alentejo,Cuba,Município,Continente,Alentejo,Baixo Alentejo
+mun-ferreira-do-alentejo--baixo-alentejo,Ferreira do Alentejo,Município,Continente,Alentejo,Baixo Alentejo
+mun-mertola--baixo-alentejo,Mértola,Município,Continente,Alentejo,Baixo Alentejo
+mun-moura--baixo-alentejo,Moura,Município,Continente,Alentejo,Baixo Alentejo
+mun-ourique--baixo-alentejo,Ourique,Município,Continente,Alentejo,Baixo Alentejo
+mun-serpa--baixo-alentejo,Serpa,Município,Continente,Alentejo,Baixo Alentejo
+mun-vidigueira--baixo-alentejo,Vidigueira,Município,Continente,Alentejo,Baixo Alentejo
+nuts-iii-leziria-do-tejo,Lezíria do Tejo,NUTS III,Continente,Alentejo,Lezíria do Tejo
+mun-almeirim--leziria-do-tejo,Almeirim,Município,Continente,Alentejo,Lezíria do Tejo
+mun-alpiarca--leziria-do-tejo,Alpiarça,Município,Continente,Alentejo,Lezíria do Tejo
+mun-azambuja--leziria-do-tejo,Azambuja,Município,Continente,Alentejo,Lezíria do Tejo
+mun-benavente--leziria-do-tejo,Benavente,Município,Continente,Alentejo,Lezíria do Tejo
+mun-cartaxo--leziria-do-tejo,Cartaxo,Município,Continente,Alentejo,Lezíria do Tejo
+mun-chamusca--leziria-do-tejo,Chamusca,Município,Continente,Alentejo,Lezíria do Tejo
+mun-coruche--leziria-do-tejo,Coruche,Município,Continente,Alentejo,Lezíria do Tejo
+mun-golega--leziria-do-tejo,Golegã,Município,Continente,Alentejo,Lezíria do Tejo
+mun-rio-maior--leziria-do-tejo,Rio Maior,Município,Continente,Alentejo,Lezíria do Tejo
+mun-salvaterra-de-magos--leziria-do-tejo,Salvaterra de Magos,Município,Continente,Alentejo,Lezíria do Tejo
+mun-santarem--leziria-do-tejo,Santarém,Município,Continente,Alentejo,Lezíria do Tejo
+nuts-iii-alto-alentejo,Alto Alentejo,NUTS III,Continente,Alentejo,Alto Alentejo
+mun-alter-do-chao--alto-alentejo,Alter do Chão,Município,Continente,Alentejo,Alto Alentejo
+mun-arronches--alto-alentejo,Arronches,Município,Continente,Alentejo,Alto Alentejo
+mun-avis--alto-alentejo,Avis,Município,Continente,Alentejo,Alto Alentejo
+mun-campo-maior--alto-alentejo,Campo Maior,Município,Continente,Alentejo,Alto Alentejo
+mun-castelo-de-vide--alto-alentejo,Castelo de Vide,Município,Continente,Alentejo,Alto Alentejo
+mun-crato--alto-alentejo,Crato,Município,Continente,Alentejo,Alto Alentejo
+mun-elvas--alto-alentejo,Elvas,Município,Continente,Alentejo,Alto Alentejo
+mun-fronteira--alto-alentejo,Fronteira,Município,Continente,Alentejo,Alto Alentejo
+mun-gaviao--alto-alentejo,Gavião,Município,Continente,Alentejo,Alto Alentejo
+mun-marvao--alto-alentejo,Marvão,Município,Continente,Alentejo,Alto Alentejo
+mun-monforte--alto-alentejo,Monforte,Município,Continente,Alentejo,Alto Alentejo
+mun-nisa--alto-alentejo,Nisa,Município,Continente,Alentejo,Alto Alentejo
+mun-ponte-de-sor--alto-alentejo,Ponte de Sor,Município,Continente,Alentejo,Alto Alentejo
+mun-portalegre--alto-alentejo,Portalegre,Município,Continente,Alentejo,Alto Alentejo
+mun-sousel--alto-alentejo,Sousel,Município,Continente,Alentejo,Alto Alentejo
+nuts-iii-alentejo-central,Alentejo Central,NUTS III,Continente,Alentejo,Alentejo Central
+mun-alandroal--alentejo-central,Alandroal,Município,Continente,Alentejo,Alentejo Central
+mun-arraiolos--alentejo-central,Arraiolos,Município,Continente,Alentejo,Alentejo Central
+mun-borba--alentejo-central,Borba,Município,Continente,Alentejo,Alentejo Central
+mun-estremoz--alentejo-central,Estremoz,Município,Continente,Alentejo,Alentejo Central
+mun-evora--alentejo-central,Évora,Município,Continente,Alentejo,Alentejo Central
+mun-montemor-o-novo--alentejo-central,Montemor-o-Novo,Município,Continente,Alentejo,Alentejo Central
+mun-mora--alentejo-central,Mora,Município,Continente,Alentejo,Alentejo Central
+mun-mourao--alentejo-central,Mourão,Município,Continente,Alentejo,Alentejo Central
+mun-portel--alentejo-central,Portel,Município,Continente,Alentejo,Alentejo Central
+mun-redondo--alentejo-central,Redondo,Município,Continente,Alentejo,Alentejo Central
+mun-reguengos-de-monsaraz--alentejo-central,Reguengos de Monsaraz,Município,Continente,Alentejo,Alentejo Central
+mun-vendas-novas--alentejo-central,Vendas Novas,Município,Continente,Alentejo,Alentejo Central
+mun-viana-do-alentejo--alentejo-central,Viana do Alentejo,Município,Continente,Alentejo,Alentejo Central
+mun-vila-vicosa--alentejo-central,Vila Viçosa,Município,Continente,Alentejo,Alentejo Central
+nuts-ii-algarve,Algarve,NUTS II,Continente,Algarve,
+nuts-iii-algarve,Algarve,NUTS III,Continente,Algarve,Algarve
+mun-albufeira--algarve,Albufeira,Município,Continente,Algarve,Algarve
+mun-alcoutim--algarve,Alcoutim,Município,Continente,Algarve,Algarve
+mun-aljezur--algarve,Aljezur,Município,Continente,Algarve,Algarve
+mun-castro-marim--algarve,Castro Marim,Município,Continente,Algarve,Algarve
+mun-faro--algarve,Faro,Município,Continente,Algarve,Algarve
+mun-lagoa--algarve,Lagoa,Município,Continente,Algarve,Algarve
+mun-lagos--algarve,Lagos,Município,Continente,Algarve,Algarve
+mun-loule--algarve,Loulé,Município,Continente,Algarve,Algarve
+mun-monchique--algarve,Monchique,Município,Continente,Algarve,Algarve
+mun-olhao--algarve,Olhão,Município,Continente,Algarve,Algarve
+mun-portimao--algarve,Portimão,Município,Continente,Algarve,Algarve
+mun-sao-bras-de-alportel--algarve,São Brás de Alportel,Município,Continente,Algarve,Algarve
+mun-silves--algarve,Silves,Município,Continente,Algarve,Algarve
+mun-tavira--algarve,Tavira,Município,Continente,Algarve,Algarve
+mun-vila-do-bispo--algarve,Vila do Bispo,Município,Continente,Algarve,Algarve
+mun-vila-real-de-santo-antonio--algarve,Vila Real de Santo António,Município,Continente,Algarve,Algarve
+nuts-i-regiao-autonoma-dos-acores,Região Autónoma dos Açores,NUTS I,Região Autónoma dos Açores,,
+nuts-ii-regiao-autonoma-dos-acores,Região Autónoma dos Açores,NUTS II,Região Autónoma dos Açores,Região Autónoma dos Açores,
+nuts-iii-ilha-de-santa-maria,Ilha de Santa Maria,NUTS III,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de Santa Maria
+mun-vila-do-porto--ilha-de-santa-maria,Vila do Porto,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de Santa Maria
+nuts-iii-ilha-de-sao-miguel,Ilha de São Miguel,NUTS III,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de São Miguel
+mun-lagoa-r-a-a--ilha-de-sao-miguel,Lagoa [R.A.A.],Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de São Miguel
+mun-nordeste--ilha-de-sao-miguel,Nordeste,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de São Miguel
+mun-ponta-delgada--ilha-de-sao-miguel,Ponta Delgada,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de São Miguel
+mun-povoacao--ilha-de-sao-miguel,Povoação,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de São Miguel
+mun-ribeira-grande--ilha-de-sao-miguel,Ribeira Grande,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de São Miguel
+mun-vila-franca-do-campo--ilha-de-sao-miguel,Vila Franca do Campo,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de São Miguel
+nuts-iii-ilha-terceira,Ilha Terceira,NUTS III,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha Terceira
+mun-angra-do-heroismo--ilha-terceira,Angra do Heroísmo,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha Terceira
+mun-vila-da-praia-da-vitoria--ilha-terceira,Vila da Praia da Vitória,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha Terceira
+nuts-iii-ilha-graciosa,Ilha Graciosa,NUTS III,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha Graciosa
+mun-santa-cruz-da-graciosa--ilha-graciosa,Santa Cruz da Graciosa,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha Graciosa
+nuts-iii-ilha-de-sao-jorge,Ilha de São Jorge,NUTS III,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de São Jorge
+mun-calheta-r-a-a--ilha-de-sao-jorge,Calheta [R.A.A.],Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de São Jorge
+mun-velas--ilha-de-sao-jorge,Velas,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha de São Jorge
+nuts-iii-ilha-do-pico,Ilha do Pico,NUTS III,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha do Pico
+mun-lajes-do-pico--ilha-do-pico,Lajes do Pico,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha do Pico
+mun-madalena--ilha-do-pico,Madalena,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha do Pico
+mun-sao-roque-do-pico--ilha-do-pico,São Roque do Pico,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha do Pico
+nuts-iii-ilha-do-faial,Ilha do Faial,NUTS III,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha do Faial
+mun-horta--ilha-do-faial,Horta,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha do Faial
+nuts-iii-ilha-das-flores,Ilha das Flores,NUTS III,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha das Flores
+mun-lajes-das-flores--ilha-das-flores,Lajes das Flores,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha das Flores
+mun-santa-cruz-das-flores--ilha-das-flores,Santa Cruz das Flores,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha das Flores
+nuts-iii-ilha-do-corvo,Ilha do Corvo,NUTS III,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha do Corvo
+mun-corvo--ilha-do-corvo,Corvo,Município,Região Autónoma dos Açores,Região Autónoma dos Açores,Ilha do Corvo
+nuts-i-regiao-autonoma-da-madeira,Região Autónoma da Madeira,NUTS I,Região Autónoma da Madeira,,
+nuts-ii-regiao-autonoma-da-madeira,Região Autónoma da Madeira,NUTS II,Região Autónoma da Madeira,Região Autónoma da Madeira,
+nuts-iii-ilha-da-madeira,Ilha da Madeira,NUTS III,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+mun-calheta-r-a-m--ilha-da-madeira,Calheta [R.A.M.],Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+mun-camara-de-lobos--ilha-da-madeira,Câmara de Lobos,Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+mun-funchal--ilha-da-madeira,Funchal,Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+mun-machico--ilha-da-madeira,Machico,Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+mun-ponta-do-sol--ilha-da-madeira,Ponta do Sol,Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+mun-porto-moniz--ilha-da-madeira,Porto Moniz,Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+mun-ribeira-brava--ilha-da-madeira,Ribeira Brava,Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+mun-santa-cruz--ilha-da-madeira,Santa Cruz,Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+mun-santana--ilha-da-madeira,Santana,Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+mun-sao-vicente--ilha-da-madeira,São Vicente,Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha da Madeira
+nuts-iii-ilha-de-porto-santo,Ilha de Porto Santo,NUTS III,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha de Porto Santo
+mun-porto-santo--ilha-de-porto-santo,Porto Santo,Município,Região Autónoma da Madeira,Região Autónoma da Madeira,Ilha de Porto Santo
